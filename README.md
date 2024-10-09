@@ -1,0 +1,1 @@
+This AI chatbot project leverages the Django framework and integrates an AI API to deliver intelligent conversational experiences. It features user-specific interaction tracking, allowing the bot to maintain a history of conversations for personalized responses. This ensures that users receive context-aware assistance, enhancing engagement and satisfaction.
